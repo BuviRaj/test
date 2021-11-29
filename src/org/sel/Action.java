@@ -27,6 +27,24 @@ public class Action {
 			WebElement Summer_Dresses = driver.findElement(By.xpath("(//a[text()='Summer Dresses'])[2]"));
 			
 			ac.click(Summer_Dresses).build().perform();
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	}
+	
+	
+	
+	
+	
+	
+	
+	
 
 }
